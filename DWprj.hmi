@@ -7,3 +7,4 @@ SCREENDSIZE=1280X800
 SPADDRESS=5000
 [IMG]
 00=00_Background.png
+01=01_Main.png
